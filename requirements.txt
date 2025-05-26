@@ -1,0 +1,10 @@
+# ASR libraries (choose one or both)
+openai-whisper>=20230314
+google-cloud-speech>=2.0.0
+
+# NLP & data processing
+spacy>=3.5.0
+pandas>=1.3.0
+python-dateparser>=1.1.1
+tqdm>=4.60.0
+echo "dateparser>=1.1.1" >> requirements.txt
